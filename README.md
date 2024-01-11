@@ -1,1 +1,2 @@
 # PROJECT-2
+This notebook explores the relationship between social capital and various other variables, including the number of friends a student has, their GPA, their participation in extracurricular activities, their mental health, their attitudes towards school, and their transition to college. The results suggest that there are some relationships between social capital and these other variables, but these relationships are not strong.
